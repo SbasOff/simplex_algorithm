@@ -5,7 +5,7 @@ public class principal {
         ventana v = new ventana();
         v.setVisible(true);// hacemos que la vetana sea visible 
         
-        
+        System.out.println ("Hola mundo ");
         
     } 
            
