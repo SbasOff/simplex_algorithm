@@ -3,5 +3,4 @@
 # Fernando Patoni De La Rosa 
 # Jesús Antonio Méndez García
 # Giovanni Sebastien Grajales Méndez
-### Este algoritmo es para una practica para desarrollar competencias 
-# Prueba
+# This algorithm is for a practice to develop skills
